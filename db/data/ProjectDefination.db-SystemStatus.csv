@@ -1,0 +1,8 @@
+statusID,statusName
+CRTD,Created
+APRR,Require Approval
+APPR,Approved
+INPR,In-Progress
+OHLD,On Hold
+CPLT,Complete
+CLSD,Closed

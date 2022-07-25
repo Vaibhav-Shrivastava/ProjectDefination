@@ -1,0 +1,5 @@
+statusID,statusName
+REQ,Requested/Applied_for
+GRAN,Granted
+RJCT,Rejected
+RSUB,Resubmitted

@@ -1,0 +1,2 @@
+projectID,publicPermitType_publicPermitType,publicPermitTypeName,permitName,permitDescription,issuingOrganization,requiredByDate,leadTimeDays,responsiblePerson,rejectedOnDate,reasonforRejection,resubmittedOn,issuedOnDate,permitStatus_statusID,permitApplicationURL,permitPermitDocumentURL,companyID,plantID
+im,sto,null,null,large,id,2020-10-10,2022-01-01,praveen,2022-02-22,np,2022-03-19,2022-09-13,REQ,null,null,121,900
